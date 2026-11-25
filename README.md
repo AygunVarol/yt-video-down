@@ -23,7 +23,7 @@ A simple app that runs on your own computer for downloading YouTube videos. Past
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/yt-video-downloader.git
+git clone https://github.com/aygunvarol/yt-video-downloader.git
 cd yt-video-downloader
 ```
 
